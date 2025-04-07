@@ -109,8 +109,6 @@ Freely accessible open-source Threat Intelligence feeds that require no addition
 - [BurpSuite IPs](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/BurpSuite%20IPs.txt)
 - [Deimos C2 IPs](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/Deimos%20C2%20IPs.txt)
 - [GoPhish IPs](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/GoPhish%20IPs.txt)
-- [Gotham Stealer IPs](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/Gotham%20Stealer%20IPs.txt)
-- [Hashcat Cracking Tool IPs](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/Hachcat%20Cracking%20Tool%20IPs.txt)
 - [Mythic C2 IPs](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/Mythic%20C2%20IPs.txt)
 - [NimPlant C2 IPs](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/NimPlant%20C2%20IPs.txt)
 - [PANDA C2 IPs](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/PANDA%20C2%20IPs.txt)
