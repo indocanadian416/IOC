@@ -1,6 +1,6 @@
 # Cybersecurity Threat Intelligence Feeds
 
-A curated collection of threat intelligence resources for cybersecurity professionals.
+Freely accessible open-source Threat Intelligence feeds that require no additional setup. The CSV & TXT files containing the feeds are organized systematically by Vendor, Description, Category, and URL. Below, you’ll find details about the vendors providing these feeds, along with the available feed categories.
 
 ## Table of Contents
 - [Abuse.ch](#abusech)
