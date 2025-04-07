@@ -110,9 +110,7 @@ Freely accessible open-source Threat Intelligence feeds that require no addition
 - [Deimos C2 IPs](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/Deimos%20C2%20IPs.txt)
 - [GoPhish IPs](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/GoPhish%20IPs.txt)
 - [Mythic C2 IPs](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/Mythic%20C2%20IPs.txt)
-- [NimPlant C2 IPs](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/NimPlant%20C2%20IPs.txt)
 - [PANDA C2 IPs](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/PANDA%20C2%20IPs.txt)
-- [PowerSploit IPs](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/PowerSploit%20IPs.txt)
 - [XMRig Monero Cryptominer IPs](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/XMRig%20Monero%20Cryptominer%20IPs.txt)
 - [All IPs](https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/all.txt)
 
@@ -120,7 +118,6 @@ Freely accessible open-source Threat Intelligence feeds that require no addition
 
 - [Cobalt Strike - LuckyMouse/TA428](https://github.com/carbonblack/active_c2_ioc_public/blob/main/cobaltstrike/actor-specific/cobaltstrike_luckymouse_ta428.csv)
 - [Cobalt Strike - PyXie](https://github.com/carbonblack/active_c2_ioc_public/blob/main/cobaltstrike/actor-specific/cobaltstrike_pyxie.csv)
-- [ShadowPad (Sept 2022)](https://github.com/carbonblack/active_c2_ioc_public/blob/main/shadowpad/shadowpad_202209.tsv)
 
 ## TweetFeed.live
 
