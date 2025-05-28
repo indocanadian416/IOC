@@ -294,3 +294,83 @@ Freely accessible open-source Threat Intelligence feeds that require no addition
 ## Spamhaus
 
 - [Spamhaus DROP v4 (JSON)](https://www.spamhaus.org/drop/drop_v4.json)
+
+## Threat Hunting Resources
+
+### Malware Analysis & Reverse Engineering
+- [Malware Analysis & Reverse Engineering Repo](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering)  
+  *In-depth malware analysis techniques and reverse engineering guides.*
+
+### Awesome Lists & Curated Resources
+- [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence/blob/master/README.md)  
+  *Comprehensive list of threat intelligence resources.*
+- [Awesome Threat Detection](https://github.com/0x4D31/awesome-threat-detection)  
+  *Curated detection engineering resources.*
+
+### Detection Rules & Frameworks
+- [Sigma Detection Rules](https://github.com/SigmaHQ/sigma)  
+  *Generic signature format for SIEM systems (Splunk, Elastic, etc.).*
+- [Autonomous Threat Sweeper](https://github.com/Securonix/AutonomousThreatSweeper)  
+  *Automated threat hunting using Splunk.*
+
+### Living Off the Land (LOL) Resources
+- [LOLBAS Project](https://lolbas-project.github.io/)  
+  *Living Off the Land Binaries, Scripts, and Libraries for Windows.*
+
+### Blue Team Tools
+- [BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools)  
+  *Collection of defensive security tools and scripts.*
+
+### MITRE ATT&CK Integration
+- [MITRE ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/)  
+  *Interactive web-based tool for exploring MITRE ATT&CK matrices.*
+
+### Threat Hunting Queries & Tools
+- [CB-Threat-Hunting](https://github.com/0xAnalyst/CB-Threat-Hunting)  
+  *Carbon Black threat hunting queries and resources.*
+- [Threat-Hunting-and-Detection](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main)  
+  *Detection rules, queries, and playbooks.*
+- [Threat_Hunting](https://github.com/BankSecurity/Threat_Hunting)  
+  *Threat hunting queries and detection rules.*
+- [CrowdStrike-Queries](https://github.com/Mikoyan-Dee/CrowdStrike-Queries)  
+  *CrowdStrike Falcon hunting queries.*
+
+### Vendor-Specific Detection Repos
+- [Red Canary](https://github.com/redcanaryco)  
+  *Open-source detection content from Red Canary.*
+- [NetskopeOSS](https://github.com/netskopeoss)  
+  *Cloud security detection rules and tools.*
+
+### Microsoft 365 & Azure Sentinel
+- [Microsoft 365 Defender Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries/blob/master/General%20queries/insider-threat-detection-queries.md)  
+  *Insider threat detection queries for Microsoft 365 Defender.*
+- [Azure Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections)  
+  *Built-in detection rules for Azure environments.*
+
+### KQL & LogScale Resources
+- [KQL Hunting Queries](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)  
+  *KQL detection rules and hunting queries.*
+- [KQL Regex Examples](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/blob/main/KQL%20Regex/RegexExamples.md)  
+  *KQL regex pattern examples.*
+- [LogScale Tutorials](https://github.com/soggysec/falcon-query-assets/tree/main/LogScale-and-FLTR/Tutorials/Hunting-and-Investigations)  
+  *Falcon LogScale hunting and investigation tutorials.*
+
+### Threat Intelligence & Reports
+- [ThreatIntel-Reports](https://mthcht.github.io/ThreatIntel-Reports/)  
+  *Malware analysis reports and IOCs.*
+- [Cyb3r-Monk Repo](https://github.com/Cyb3r-Monk)  
+  *Threat hunting playbooks and detection logic.*
+
+### Additional Community & Research Repos
+- [FalconFriday](https://github.com/FalconForceTeam/FalconFriday)  
+  *Weekly threat hunting and detection content.*
+- [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)  
+  *Another link to the awesome threat intelligence list for completeness.*
+- [SlimKQL](https://github.com/SlimKQL)  
+  *KQL query resources and tools.*
+- [cyb3rmik3](https://github.com/cyb3rmik3)  
+  *Threat hunting and detection scripts.*
+- [0x4D31](https://github.com/0x4D31)  
+  *Detection engineering resources.*
+
+
