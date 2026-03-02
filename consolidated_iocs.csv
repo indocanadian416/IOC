@@ -4,7 +4,6 @@ package_name,package_versions,sources
 @accordproject/concerto-linter,3.24.1,"helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
 @accordproject/concerto-linter-default-ruleset,3.24.1,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
 @accordproject/concerto-metamodel,3.12.5,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-debug.js,0.0.1,datagod
 @accordproject/concerto-types,3.24.1,"datadog, helixguard, koi, reversinglabs, stepsecurity, wiz"
 @accordproject/markdown-it-cicero,0.16.26,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
 @accordproject/template-engine,2.7.2,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
@@ -795,5 +794,6 @@ zapier-scripts,"7.8.3, 7.8.4","helixguard, koi, reversinglabs, stepsecurity, wiz
 zuper-cli,1.0.1,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
 zuper-sdk,1.0.57,"datadog, koi, reversinglabs, socketdev, stepsecurity, wiz"
 zuper-stream,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
+
 
 
