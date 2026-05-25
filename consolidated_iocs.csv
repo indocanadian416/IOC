@@ -794,26 +794,26 @@ zapier-scripts,"7.8.3, 7.8.4","helixguard, koi, reversinglabs, stepsecurity, wiz
 zuper-cli,1.0.1,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
 zuper-sdk,1.0.57,"datadog, koi, reversinglabs, socketdev, stepsecurity, wiz"
 zuper-stream,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-async-pipeline-builder,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-build-scripts-utils,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-chain-key-validator,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-crypto-credential-scanner,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-defi-env-auditor,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-defi-threat-scanner,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-deployment-key-auditor,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-dev-env-bootstrapper,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-eth-wallet-sentinel,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-llm-context-compressor,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-mnemonic-safety-check,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-model-switch-router,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-node-setup-helpers,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-project-init-tools,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-prompt-engineering-toolkit,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-solidity-deploy-guard,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-token-usage-tracker,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-wallet-backup-verifier,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-wallet-security-checker,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-web3-secrets-detector,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-workspace-config-loader,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
+async-pipeline-builder,,
+build-scripts-utils,,
+chain-key-validator,,
+crypto-credential-scanner,,
+defi-env-auditor,,
+defi-threat-scanner,,
+deployment-key-auditor,,
+dev-env-bootstrapper,,
+eth-wallet-sentinel,,
+llm-context-compressor,,
+mnemonic-safety-check,,
+model-switch-router,,
+node-setup-helpers,,
+project-init-tools,,
+prompt-engineering-toolkit,,
+solidity-deploy-guard,,
+token-usage-tracker,,
+wallet-backup-verifier,,
+wallet-security-checker,,
+web3-secrets-detector,,
+workspace-config-loader,,
 
 
