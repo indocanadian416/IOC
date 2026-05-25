@@ -794,6 +794,26 @@ zapier-scripts,"7.8.3, 7.8.4","helixguard, koi, reversinglabs, stepsecurity, wiz
 zuper-cli,1.0.1,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
 zuper-sdk,1.0.57,"datadog, koi, reversinglabs, socketdev, stepsecurity, wiz"
 zuper-stream,2.0.9,"datadog, helixguard, koi, reversinglabs, socketdev, stepsecurity, wiz"
-
+async-pipeline-builder
+build-scripts-utils
+chain-key-validator
+crypto-credential-scanner
+defi-env-auditor
+defi-threat-scanner
+deployment-key-auditor
+dev-env-bootstrapper
+eth-wallet-sentinel
+llm-context-compressor
+mnemonic-safety-check
+model-switch-router
+node-setup-helpers
+project-init-tools
+prompt-engineering-toolkit
+solidity-deploy-guard
+token-usage-tracker
+wallet-backup-verifier
+wallet-security-checker
+web3-secrets-detector
+workspace-config-loader
 
 
