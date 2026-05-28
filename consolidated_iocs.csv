@@ -815,5 +815,8 @@ wallet-backup-verifier,,
 wallet-security-checker,,
 web3-secrets-detector,,
 workspace-config-loader,,
-
+terminal-logger-utils,"1.1.0, 1.1.1",
+pretty-logger-utils,1.0.0,
+ts.logger-pack,1.1.3,
+pinno-loggers,1.0.0,
 
