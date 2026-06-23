@@ -905,3 +905,40 @@ spateo-release,1.1.2,
 synago,"0.1.1, 0.1.2",
 ufish,"0.1.2, 0.1.3",
 uprobe,"0.1.3, 0.1.4",
+weavedb-lite,0.1.1,XRAY-989671
+weavedb-sdk-base,0.21.1,XRAY-989492
+test-weavedb-sdk,1.1.1,XRAY-989648
+weavedb-warp-contracts-plugin-deploy,1.0.11,XRAY-989666
+arnext-arkb,0.0.2,XRAY-989571
+weavedb-console,0.2.1,XRAY-989594
+arnext,0.1.5,XRAY-989617
+roidjs,0.1.7,XRAY-989784
+weavedb-exm-sdk,0.7.4,XRAY-989764
+create-arnext-app,0.0.10,XRAY-989681
+weavedb-tools,0.45.3,XRAY-989760
+wdb-core,0.1.2,XRAY-989766
+cwao-tools,0.3.1,XRAY-989752
+test-ajs,0.1.19,XRAY-989779
+monade,0.0.7,XRAY-989547
+weavedb-exm-sdk-web,0.7.4,XRAY-989747
+testnpmnmp,1.0.21,XRAY-989781
+warp-contracts-plugin-deploy-test,3.0.1,XRAY-989754
+wdb-cli,0.1.1,XRAY-989761
+ai3,0.3.5,XRAY-989753
+cwao-units,0.8.3,XRAY-989762
+atomic-notes,0.5.3,XRAY-989758
+cwao,0.5.6,XRAY-989756
+weavedb-client,0.45.3,XRAY-989775
+wdb-sdk,0.1.2,XRAY-989773
+weavedb-offchain,0.45.4,XRAY-989783
+fpjson-lang,0.1.7,XRAY-989641
+weavedb-contracts,0.45.2,XRAY-989771
+weavedb-node-client,0.45.3,XRAY-989765
+arjson,0.1.4,XRAY-989767
+hbsig,0.3.2,XRAY-989769
+zkjson,0.8.5,XRAY-989787
+aonote,0.11.1,XRAY-989790
+weavedb-base,0.45.3,XRAY-989751
+weavedb-sdk-node,0.45.3,XRAY-989772
+wao,0.41.2,XRAY-989785
+weavedb-sdk,0.45.3,XRAY-989789
