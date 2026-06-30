@@ -964,3 +964,6 @@ backstage-plugin-ldap-auth-backend,2.0.5,immobiliarelabs
 backstage-plugin-ldap-auth-backend,3.0.2,immobiliarelabs
 backstage-plugin-ldap-auth-backend,4.3.2,immobiliarelabs
 backstage-plugin-ldap-auth-backend,5.2.1,immobiliarelabs
+postcss-minify-selector-parser,,XRAY-1002983
+postcss-minify-selector,,XRAY-1003986
+aes-decode-runner-pro,,XRAY-989675
