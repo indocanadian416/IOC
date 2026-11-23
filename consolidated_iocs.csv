@@ -1064,3 +1064,4 @@ tensorlake,0.5.144,"https://www.sonatype.com/blog/hijacked-tensorlake-npm-turned
 memtensor/memos-cloud-openclaw-plugin,"0.1.21, 0.1.23, 0.1.25","https://socket.dev/blog/memtensor-compromise"
 itsa-utils, 1.4.2,
 @dforge-core/dforge-mc,"0.2.20, 0.2.21",
+@ethersphere/bee-js,13.3.0,
