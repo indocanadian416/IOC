@@ -1065,3 +1065,9 @@ memtensor/memos-cloud-openclaw-plugin,"0.1.21, 0.1.23, 0.1.25","https://socket.d
 itsa-utils, 1.4.2,
 @dforge-core/dforge-mc,"0.2.20, 0.2.21",
 @ethersphere/bee-js,13.3.0,
+axios-test-one,,"https://socket.dev/blog/malicious-nuget-packages-fake-job-assessments"
+telemetry-metrics,,"https://socket.dev/blog/malicious-nuget-packages-fake-job-assessments"
+telemetry-axios,,"https://socket.dev/blog/malicious-nuget-packages-fake-job-assessments"
+axios-native,,"https://socket.dev/blog/malicious-nuget-packages-fake-job-assessments"
+fs-extra-core,,"https://socket.dev/blog/malicious-nuget-packages-fake-job-assessments"
+vitest-axios,,"https://socket.dev/blog/malicious-nuget-packages-fake-job-assessments"
